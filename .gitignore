@@ -1,0 +1,4 @@
+#Text file
+*.txt
+#win-exe file
+*exe
